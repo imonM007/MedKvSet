@@ -49,7 +49,7 @@ MedKvSet/
 │       └── unet_1800.csv
 ├── AvgValue.ipynb
 ├── ModelCompareForAll.ipynb
-└── README.md
+└── readme.md
 ```
 
 ### File Explanations
